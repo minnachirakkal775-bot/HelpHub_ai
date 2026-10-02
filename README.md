@@ -1147,7 +1147,7 @@ SharedPreferences
 
 # 📜 License
 
-This project is developed for **educational, academic, hackathon, and prototype purposes**.
+This project is developed for **educational, academic, and prototype purposes**.
 
 ---
 
